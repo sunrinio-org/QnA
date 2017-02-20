@@ -1,5 +1,7 @@
-# QnA
-참여하고 있는 사람들:
+# sunrin.io 베타: [ask.sunrin.io](http://ask.sunrin.io)
+선린의 졸업생과 재학생들이 선린의 커뮤니티 서비스
+
+## [답변](./issues)에 참여하고 있는 사람들
 ![](https://avatars2.githubusercontent.com/u/12431127?v=3&s=40)
 ![](https://avatars2.githubusercontent.com/u/9590242?v=3&s=40)
 ![](https://avatars2.githubusercontent.com/u/25736938?v=3&s=40)
